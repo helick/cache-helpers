@@ -17,7 +17,7 @@ Make sure all dependencies have been installed before moving on:
 Via Composer:
 
 ``` bash
-$ composer require helick/cache-helper
+$ composer require helick/cache-helpers
 ```
 
 ## Usage
@@ -41,13 +41,13 @@ If you discover any security related issues, please email evgenii@helick.io inst
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/helick/cache-helper.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/helick/cache-helpers.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/helick/cache-helper.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/helick/cache-helper.svg?style=flat-square
+[ico-code-quality]: https://img.shields.io/scrutinizer/g/helick/cache-helpers.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/helick/cache-helpers.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/helick/cache-helper
-[link-code-quality]: https://scrutinizer-ci.com/g/helick/cache-helper
-[link-downloads]: https://packagist.org/packages/helick/cache-helper
+[link-packagist]: https://packagist.org/packages/helick/cache-helpers
+[link-code-quality]: https://scrutinizer-ci.com/g/helick/cache-helpers
+[link-downloads]: https://packagist.org/packages/helick/cache-helpers
 [link-author]: https://github.com/nasyrov
 [link-contributors]: ../../contributors
